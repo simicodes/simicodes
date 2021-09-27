@@ -57,4 +57,4 @@ Hi there, my name is Simeon Offiong! 👋
   <img src="https://profile-counter.glitch.me/simicodes/count.svg" />
 </p>
 
-[![simicodes's GitHub Stats](https://github-readme-stats.vercel.app/api?username=simicodes&show_icons=true&theme=radical)](https://github.com/simicodes/github-readme-stats)
+[![simicodes's GitHub Stats](https://github-readme-stats.vercel.app/api?username=simicodes&show_icons=true&theme=dracula)](https://github.com/simicodes/github-readme-stats)

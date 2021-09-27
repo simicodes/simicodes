@@ -4,7 +4,7 @@ Hi there, my name is Simeon Offiong! 👋
 
 - 🔭 Software Developer. During the weekends, I spend most time on personal projects and contribute to https://www.sessionstack.com/ as a Technical writer.
 - 👯 I’m looking to collaborate on anything nice 🤣
-- 🌱 I’m currently learning everything 😄
+- 🌱 I’m currently learning everything 🤣
 - 📫 How to reach me: email: simicodes247@gmail.com
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - 😄 Pronouns: he/him

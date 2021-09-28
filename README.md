@@ -2,7 +2,7 @@
 
 Hi there, my name is Simeon Offiong! 👋
 
-- 🔭 Software Developer. During the weekends, I spend most time on personal projects and contribute to https://www.sessionstack.com/ as a Technical writer.
+- 🔭 Software Engineer. During the weekends, I spend most time on personal projects and contribute to https://www.sessionstack.com/ as a Technical writer.
 - 👯 I’m looking to collaborate on anything nice 🤣
 - 🌱 I’m currently learning everything 😄
 - 📫 How to reach me: email: simicodes247@gmail.com
@@ -57,4 +57,4 @@ Hi there, my name is Simeon Offiong! 👋
   <img src="https://profile-counter.glitch.me/simicodes/count.svg" />
 </p>
 
-[![simicodes's GitHub Stats](https://github-readme-stats.vercel.app/api?username=simicodes&show_icons=true&theme=dracula)](https://github.com/simicodes/github-readme-stats)
+[![simicodes's gitHub stats](https://github-readme-stats.vercel.app/api?username=simicodes&show_icons=true&theme=dracula)](https://github.com/simicodes/github-readme-stats)

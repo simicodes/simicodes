@@ -27,6 +27,9 @@ src="https://img.shields.io/twitter/follow/simicodes?logo=twitter&style=for-the-
  <!--  CONTRIBUTION AND STREAK BLOCK -->
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=simicodes&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=nightowl)](https://git.io/streak-stats)
 ---
+ <!-- ACTIVITY GRAPH TRACKER -->
+[![simicodes's github activity graph](https://activity-graph.herokuapp.com/graph?username=simicodes&theme=react-dark)](https://github.com/simicodes/github-readme-activity-graph)
+---
  
 ### Skills
 <p align="left">

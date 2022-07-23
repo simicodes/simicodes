@@ -12,6 +12,18 @@ Software Developer • JavaScript • he/him
 <a href="https://www.twitter.com/simicodes" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/simicodes?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
+----------------------------------
+ 📶 Stats:
+<!--  TOP LANGUAGES STATISTICS -->
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simicodes&theme=dark&layout=compact&align=center&width=100%)](https://github.com/anuraghazra/github-readme-stats)
+ ---
+ <!--  PROFILES VIEWS -->
+🌱 **Profile Views**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![visitors](https://profile-counter.glitch.me/simicodes/count.svg?align=center)
+<!-- GITHUB STATISTICS -->
+![My github stats](https://github-readme-stats.vercel.app/api?username=simicodes&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true&width=40%&align=center)
+ <hr>
+ 
 ### Skills
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
@@ -29,6 +41,7 @@ src="https://img.shields.io/twitter/follow/simicodes?logo=twitter&style=for-the-
 <a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
+<hr>
 
 ### Socials
 <p align="left"> <a href="https://www.github.com/simicodes" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/simicodes" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.facebook.com/c/simicodes" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a></p>

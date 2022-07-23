@@ -4,10 +4,11 @@ Software Developer • JavaScript • he/him
 ----------------------------------
 
 * 🔥  Subscribe to my YouTube Channel: https://youtube.com/c/simeonoffiong
-* 🌍  I'm based in Nigeria
+* 🌍  I based in Nigeria
 * ✉️  You can contact me at [simoffiong@gmail.com](mailto:simoffiong@gmail.com)
 * 🧠  I'm learning the MERN Stack
 * 🤝  I'm open to collaborating on React projects
+
 <a href="https://www.twitter.com/simicodes" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/simicodes?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
